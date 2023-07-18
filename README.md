@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @z3k0sec o/
 - 👀 I'm interested in hacking, pentesting, information security.
-- 🌱 I’m currently learning for my OSCP to get a job as penetration tester. 
+- 🌱 I’m currently learning for my OSCP to land a job as penetration tester. 
 - 📫 You can contact me via Twitter https://twitter.com/z3k0sec or via E-Mail z3k0sec@proton.me.
 
 <!---
